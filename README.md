@@ -1,5 +1,7 @@
 ### 🙋🏻 Hi there 👋
 
+I'm Charlie, a software engineer with a professional focus in developing user interfaces to enable users to perform complex tasks (e.g, mission planning, maintenance, natural language processing research). Outside of work hours, I'm interested in data visualization, personal productivity, and digital art. 
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/charlieplusplus)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/charliemj/)
 
