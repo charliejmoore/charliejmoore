@@ -1,6 +1,6 @@
 ### 🙋🏻 Hi there 👋
 
-I'm Charlie, a software engineer with a professional focus in developing user interfaces to enable users to perform complex tasks (e.g, mission planning, maintenance, natural language processing research). Outside of work hours, I'm interested in data visualization, personal productivity, and digital art. 
+I'm Charlie, a software engineer with a professional focus in developing user interfaces to enable users to perform complex tasks, where they need to generate insights and understand relationships in large amounts of dynamic and uncertain data. Outside of work hours, I'm interested in data visualization, personal productivity, and digital art. 
 
 
 ## 💼 Skills
