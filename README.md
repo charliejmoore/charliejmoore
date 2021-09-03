@@ -5,10 +5,10 @@ I'm Charlie, a software engineer with a professional focus in developing user in
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=black&color=B52E31)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=f7df1e)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=FFD43B&color=4B8BBE)
 
 ## Connect
 
