@@ -18,7 +18,7 @@ I'm Charlie, a software engineer with a professional focus in developing user in
 
   <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F0DB4F">
 
-  <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=68A063">
+  <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063">
 
   <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=4B8BBE">
 
