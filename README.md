@@ -1,23 +1,65 @@
-### 🙋🏻 Hi there 👋
+<style>
 
-I'm Charlie, a software engineer with a professional focus in developing user interfaces to enable users to perform complex tasks (e.g, mission planning, maintenance, natural language processing research). Outside of work hours, I'm interested in data visualization, personal productivity, and digital art. 
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .badge {
+    margin: 5px;
+    flex-shrink: 0;
+  }
+
+</style>
+
+### 👋 Hi there
+
+I'm Charlie, a software engineer with a professional focus in developing user interfaces to enable users to perform complex tasks, where they need to generate insights and understand relationships in large amounts of dynamic and uncertain data. Outside of work hours, I'm interested in data visualization, personal productivity, and digital art.
 
 
-## 💼 Skills
+## 💻 Software
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+<div class="row">
 
-## Connect
+  <div class="badge"><img src="https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31"></div>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/charlieplusplus)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/charliemj/)
+  <div class="badge"><img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=007acc"></div>
+
+  <div class="badge"><img src="https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=white&color=CD6799"></div>
+
+  <div class="badge"><img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=2965f1"></div>
+
+  <div class="badge"><img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=F16529"></div>
+
+  <div class="badge"><img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F0DB4F"></div>
+
+  <div class="badge"><img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=68A063"></div>
+
+  <div class="badge"><img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=4B8BBE"></div>
+
+</div>
+
+
+## 🙋🏻 Connect
+
+<div class="row">
+    <div class="badge"><a href="https://twitter.com/charlieplusplus"><img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"></a></div>
+
+  <div class="badge"><a href="https://www.linkedin.com/in/charliemj/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"></a></div>
+</div>
+
 
 Want to know more about me? [Check out my portfolio.](https://charlie.codes/)
 
 <!--
+
+Useful resources in making this:
+- [Making badges](https://shields.io/)
+- [Available badge icons + brand color hexcodes](https://simpleicons.org/)
+- [Emojis](https://emojipedia.org/objects/)
+
 **charliejmoore/charliejmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
