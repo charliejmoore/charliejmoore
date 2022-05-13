@@ -1,6 +1,6 @@
 ### 🙋🏻 Hi there
 
-I'm Charlie, a frontend software engineer with a professional focus in developing user interfaces to enable users to perform complex tasks, where they need to generate insights and understand relationships in large amounts of dynamic and uncertain data. Outside of work hours, I'm interested in data visualization, personal productivity, and submarines.
+I'm Charlie, a full stack software engineer with a professional focus in developing web applications to enable users to perform complex tasks, where they need to generate insights and understand relationships in large amounts of dynamic and uncertain data. I'm very passionate about data visualization, productivity tools, and UI/UX.
 
 
 Want to know more about me? [Check out my portfolio](https://charlie.codes/) or connect with me on [LinkedIn](https://www.linkedin.com/in/charliemj/).
