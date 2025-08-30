@@ -1,9 +1,9 @@
 ### 🙋🏻 Hi there
 
-I'm Charlie, a full stack software engineer with a professional focus in developing web applications to enable users to perform complex tasks, where they need to generate insights and understand relationships in large amounts of dynamic and uncertain data. I'm very passionate about data visualization, productivity tools, and UI/UX.
+I'm Charlie, a full stack software engineer with 7+ years of professional experience. I am currently working in mobile development in the IoT space. I have prior experience in developing web applications to enable users to perform complex tasks, where they need to generate insights and understand relationships in large amounts of dynamic and uncertain data.
 
 
-Want to know more about me? [Check out my portfolio](https://charlie.codes/) or connect with me on [LinkedIn](https://www.linkedin.com/in/charliemj/).
+<!-- Want to know more about me? [Check out my portfolio](https://charlie.codes/) or connect with me on [LinkedIn](https://www.linkedin.com/in/charliemj/). -->
 
 
 <!--
