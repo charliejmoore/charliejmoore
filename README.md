@@ -1,7 +1,12 @@
 ### 🙋🏻 Hi there
 
-I'm Charlie, a full stack software engineer with 7+ years of professional experience. I am currently working in mobile development in the IoT space. I have prior experience in developing web applications to enable users to perform complex tasks, where they need to generate insights and understand relationships in large amounts of dynamic and uncertain data.
+I'm Charlie, a software engineer with 7+ years of professional experience. I am currently working in mobile engineering in the IoT space, building and maintaining apps that enable ~1 million+ users to manage and interact with their IoT devices over wifi and bluetooth. I've recently focused a lot on in-app payments, CI/CD, and communication over BLE.
 
+I have prior experience developing web applications to enable users to perform complex tasks (such as manipulating NLP grammars) and to help users generate insights and understand relationships in large amounts of dynamic and uncertain data (for example, in predictive maintenance or supply chain management contexts).
+
+Outside of work, I'm interested in building AI-powered knowledge management systems.
+
+Current Tech Stack: React Native/TypeScript/Azure DevOps/React/Redux
 
 <!-- Want to know more about me? [Check out my portfolio](https://charlie.codes/) or connect with me on [LinkedIn](https://www.linkedin.com/in/charliemj/). -->
 
