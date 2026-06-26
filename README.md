@@ -8,10 +8,13 @@ Outside of work, I'm interested in building AI-powered knowledge management syst
 
 Current Tech Stack:
 
-Mobile: React Native, TypeScript, Redux, Swift, SpriteKit
-Web: React, TypeScript, Redux, RTK Query, Node.js
-Infra: Azure DevOps, GitHub
-Misc Specialties: Dealing with app stores, troubleshooting CI/CD issues, tracking down sneaky breaking changes in dependencies
+**Mobile:** React Native, TypeScript, Redux, Swift, SpriteKit
+
+**Web:** React, TypeScript, Redux, RTK Query, Node.js
+
+**Infra:** Azure DevOps, GitHub
+
+**Misc Specialties:** Dealing with app stores, troubleshooting CI/CD issues, tracking down sneaky breaking changes in dependencies
 
 Can cook in Python and C# backends/APIs.
 
