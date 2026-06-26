@@ -1,12 +1,12 @@
 ### 🙋🏻 Hi there
 
-I'm Charlie, a software engineer with 7+ years of professional experience. I am currently working in mobile engineering in the IoT space, building and maintaining apps that enable ~1 million+ users to manage and interact with their IoT devices over wifi and bluetooth. I've recently focused a lot on in-app payments, CI/CD, and communication over BLE.
+I'm Charlie, a software engineer with 7+ years of professional experience. I am currently working in full stack mobile engineering in the IoT space, building and maintaining apps that enable ~1 million+ users to manage and interact with their IoT devices over wifi and bluetooth. I've recently focused a lot on in-app payments, CI/CD, and communication over BLE.
 
-I have prior experience developing web applications to enable users to perform complex tasks (such as manipulating NLP grammars) and to help users generate insights and understand relationships in large amounts of dynamic and uncertain data (for example, in predictive maintenance or supply chain management contexts).
+I have prior experience developing full stack web applications to enable users to perform complex tasks (such as manipulating NLP grammars) and to help users generate insights and understand relationships in large amounts of dynamic and uncertain data (for example, in predictive maintenance or supply chain management contexts).
 
-Outside of work, I'm interested in building AI-powered knowledge management systems and tools that help people with executive functioning challenges accomplish everyday tasks with confidence and ease.
+Outside of work, I'm interested in building AI-powered knowledge management systems and tools that help people with executive functioning challenges accomplish everyday tasks with confidence and ease. Lately I've been building several iOS apps.
 
-Current Tech Stack: React Native/TypeScript/Azure DevOps/React/Redux
+Current Tech Stack: React Native/TypeScript/Azure DevOps/React/Redux/Swift
 
 <!-- Want to know more about me? [Check out my portfolio](https://charlie.codes/) or connect with me on [LinkedIn](https://www.linkedin.com/in/charliemj/). -->
 
