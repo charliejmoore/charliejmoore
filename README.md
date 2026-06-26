@@ -1,10 +1,11 @@
-# 🙋🏻 Hi there
+# Hi, I'm Charlie
 
-I'm Charlie, a software engineer with 7+ years of professional experience. I am currently working in full stack mobile engineering in the IoT space, building and maintaining apps that enable ~1 million+ users to manage and interact with their IoT devices over wifi and bluetooth. I've recently focused a lot on in-app payments, CI/CD, and communication over BLE.
+Staff Software Engineer specializing in mobile and full stack development for IoT systems at scale. I care as much about building up the engineers around me as the software we ship together.
 
-I have prior experience developing full stack web applications to enable users to perform complex tasks (such as manipulating NLP grammars) and to help users generate insights and understand relationships in large amounts of dynamic and uncertain data (for example, in predictive maintenance or supply chain management contexts).
+Currently building apps that let ~1M+ users manage and interact with their IoT devices
+over Wi-Fi and BLE. Before that, I built full stack web applications enabling users to tackle complex, domain-specific problems, like NLP grammar tooling and predictive analytics for supply chain and maintenance contexts.
 
-Outside of work, I'm interested in building AI-powered knowledge management systems and tools that help people with executive functioning challenges accomplish everyday tasks with confidence and ease. Lately I've been building several iOS apps in those realms (in addition to some awesome puzzle games).
+Outside of work, I'm building iOS apps focused on providing tools for people with executive functioning challenges. Plus some puzzle games. I also enjoy creating AI-powered knowledge management systems with local markdown repositories.
 
 ## Current Tech Stack
 
@@ -12,9 +13,9 @@ Outside of work, I'm interested in building AI-powered knowledge management syst
 
 **Web:** React, TypeScript, Redux, RTK Query, Node.js
 
-**Infra:** Azure DevOps, GitHub
+**Infra:** Azure DevOps, GitHub Actions, CI/CD pipelines
 
-**Misc Specialties:** Dealing with app stores, troubleshooting CI/CD issues, tracking down sneaky breaking changes in dependencies
+**Specialties:** App store wrangling, CI/CD optimization, tracking down sneaky breaking changes in dependencies
 
 Can cook in Python and C# backends/APIs.
 
