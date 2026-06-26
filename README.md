@@ -4,7 +4,7 @@ I'm Charlie, a software engineer with 7+ years of professional experience. I am 
 
 I have prior experience developing full stack web applications to enable users to perform complex tasks (such as manipulating NLP grammars) and to help users generate insights and understand relationships in large amounts of dynamic and uncertain data (for example, in predictive maintenance or supply chain management contexts).
 
-Outside of work, I'm interested in building AI-powered knowledge management systems and tools that help people with executive functioning challenges accomplish everyday tasks with confidence and ease. Lately I've been building several iOS apps.
+Outside of work, I'm interested in building AI-powered knowledge management systems and tools that help people with executive functioning challenges accomplish everyday tasks with confidence and ease. Lately I've been building several iOS apps in those realms (in addition to some awesome puzzle games).
 
 Current Tech Stack: React Native/TypeScript/Azure DevOps/React/Redux/Swift
 
