@@ -6,7 +6,14 @@ I have prior experience developing full stack web applications to enable users t
 
 Outside of work, I'm interested in building AI-powered knowledge management systems and tools that help people with executive functioning challenges accomplish everyday tasks with confidence and ease. Lately I've been building several iOS apps in those realms (in addition to some awesome puzzle games).
 
-Current Tech Stack: React Native/TypeScript/Azure DevOps/React/Redux/Swift
+Current Tech Stack:
+
+Mobile: React Native, TypeScript, Redux, Swift, SpriteKit
+Web: React, TypeScript, Redux, RTK Query, Node.js
+Infra: Azure DevOps, GitHub
+Misc Specialties: Dealing with app stores, troubleshooting CI/CD issues, tracking down sneaky breaking changes in dependencies
+
+Can cook in Python and C# backends/APIs.
 
 <!-- Want to know more about me? [Check out my portfolio](https://charlie.codes/) or connect with me on [LinkedIn](https://www.linkedin.com/in/charliemj/). -->
 
