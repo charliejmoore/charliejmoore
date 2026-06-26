@@ -1,4 +1,4 @@
-### 🙋🏻 Hi there
+# 🙋🏻 Hi there
 
 I'm Charlie, a software engineer with 7+ years of professional experience. I am currently working in full stack mobile engineering in the IoT space, building and maintaining apps that enable ~1 million+ users to manage and interact with their IoT devices over wifi and bluetooth. I've recently focused a lot on in-app payments, CI/CD, and communication over BLE.
 
@@ -6,7 +6,7 @@ I have prior experience developing full stack web applications to enable users t
 
 Outside of work, I'm interested in building AI-powered knowledge management systems and tools that help people with executive functioning challenges accomplish everyday tasks with confidence and ease. Lately I've been building several iOS apps in those realms (in addition to some awesome puzzle games).
 
-Current Tech Stack:
+## Current Tech Stack:
 
 **Mobile:** React Native, TypeScript, Redux, Swift, SpriteKit
 
