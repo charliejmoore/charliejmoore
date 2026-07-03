@@ -3,7 +3,7 @@
 Staff Software Engineer specializing in mobile and full stack development for IoT systems at scale. I care as much about building up the engineers around me as the software we ship together.
 
 ### At work:
-- I'm currently building apps that let ~1M+ users manage and interact with their IoT devices over Wi-Fi and BLE.
+- I'm currently building apps that let ~1M+ users manage and interact with their IoT devices over Wi-Fi and Bluetooth.
 - Before that, I built full stack web applications enabling users to tackle complex, domain-specific problems, like NLP grammar tooling and predictive analytics for supply chain and maintenance contexts.
 
 ### Outside of work:
