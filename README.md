@@ -28,6 +28,7 @@ Can cook in Python and C# backends/APIs.
 
 ## Currently Tinkering With
 - Self-hosted services (including Grafana + Prometheus)
+- Raspberry Pi
 - Game design + development
 
 <!-- Want to know more about me? [Check out my portfolio](https://charlie.codes/) or connect with me on [LinkedIn](https://www.linkedin.com/in/charliemj/). -->
