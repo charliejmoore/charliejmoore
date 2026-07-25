@@ -11,6 +11,7 @@ Staff Software Engineer specializing in mobile and full stack development for Io
 - Making a variety of iOS puzzle games.
 - Creating AI-powered knowledge management systems with local markdown repositories.
 - Tinkering with various self-hosted utilities.
+- Designing a smart farm/greenhouse.
 
 ## Current Tech Stack
 
